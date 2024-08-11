@@ -53,7 +53,7 @@ Witamy w **HypeHost** – niezastąpionym bocie Discord, który podniesie poziom
    ```
 4. Uruchom bota:
    ```bash
-   npm start
+   node main.js
    ```
 
 ## 🛠 Kontrybucje
