@@ -1,0 +1,20 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "statuses": [
+    { "name": "Pomagam!", "type": "PLAYING" },
+    { "name": "Oglądam serwer", "type": "WATCHING" },
+    { "name": "Tworzę nowe funkcje", "type": "COMPETING" },
+    { "name": "Witam nowych członków", "type": "LISTENING" }
+  ],
+  "proposalChannelId": "",
+  "verificationRoleId": "",
+  "logChannelId": "",
+  "ticketRoleId": "",
+  "welcomeChannelId": "",
+  "goodbyeChannelId": "",
+  "serverName": "",
+  "welcomeMessage": "Cieszymy się, że dołączyłeś do naszego serwera! Baw się dobrze!",
+  "goodbyeMessage": "Mamy nadzieję, że wrócisz do nas w przyszłości!"
+}
